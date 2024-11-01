@@ -1,0 +1,7 @@
+{
+  "name": "Wellnest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
